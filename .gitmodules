@@ -1,0 +1,3 @@
+[submodule "mxl-k8s"]
+	path = mxl-k8s
+	url = git@github.com:dodwyer/mxl-k8s.git
